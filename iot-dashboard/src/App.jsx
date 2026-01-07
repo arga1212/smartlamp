@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API = "http://IP_KOMPUTER_KAMU:5000";
+const API = "http://IPLAPTOP:5000";
 
 export default function App() {
   const [sensor, setSensor] = useState({});
@@ -40,7 +40,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-gray-100 p-6">
       <h1 className="text-3xl font-bold mb-6 text-center">
-        Smart Lamp IoT Dashboard
+        Halo ini dashboardnya smart lamp
       </h1>
 
       <div className="grid md:grid-cols-3 gap-4 mb-6">
