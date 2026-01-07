@@ -7,7 +7,7 @@ Project IoT sederhana untuk mengontrol lampu rumah (AC) menggunakan:
 - Backend Flask (HTTP API)
 - Frontend React + Tailwind CSS
 
-Project ini ditujukan untuk pemula, tugas sekolah, dan demo IoT.
+Project ini buat apa ya gatau sih ngikut aja aku
 
 
 --------------------------------------------------
@@ -147,7 +147,7 @@ Catatan Penting
 
 
 --------------------------------------------------
-Pengembangan Selanjutnya
+Pengembangan
 --------------------------------------------------
 
 - Menambahkan login user
@@ -156,4 +156,3 @@ Pengembangan Selanjutnya
 - Notifikasi
 - Deploy server ke cloud
 
-Project ini cocok sebagai tugas sekolah, project IoT dasar, dan portfolio.
